@@ -1,0 +1,28 @@
+shortcut - alt+z or option+z to wrap text in vs-code
+
+Determining if a tweet contains misinformation:
+
+Misinformation refers to false or misleading information that is spread or shared without proper verification or evidence to support it. To determine if a tweet contains misinformation, you can analyze the content of the tweet and compare it against reliable sources or established facts.
+Look for claims or statements made in the tweet and assess their accuracy and verifiability. If the tweet contains false information or presents a misleading narrative, mark it as containing misinformation. In the "Note" column, provide a short explanation of why it is considered misinformation.
+Keep in mind that misinformation can take various forms, such as false statistics, conspiracy theories, or misrepresentations of facts. Consider the context and subject matter of the tweet when evaluating its accuracy.
+Determining if a tweet is news or opinion:
+
+News refers to factual information about recent events or developments. It typically provides objective reporting without personal bias or subjective analysis.
+Opinion, on the other hand, represents subjective viewpoints or personal interpretations of events or issues. It reflects the author's perspective or stance on a particular matter.
+To determine if a tweet is news or opinion, analyze the language and tone used in the tweet. News tweets tend to focus on reporting facts, while opinion tweets may contain subjective language, personal judgments, or expressions of preference.
+If the tweet primarily presents factual information without subjective analysis or personal viewpoints, classify it as news. If the tweet expresses a personal opinion or subjective viewpoint, mark it as opinion.
+Further classification for news and opinion tweets:
+
+Breaking News: If a tweet is classified as news, you can determine if it is breaking news by evaluating whether it reports a recent and significant event or development that is currently unfolding. Breaking news tweets provide updates on real-time events.
+Normal News: If a tweet is classified as news but does not meet the criteria for breaking news, it can be considered normal news. These tweets typically provide information about events or developments that are not necessarily time-sensitive or rapidly evolving.
+Pro-life/Pro-choice: If a tweet is classified as opinion, you can assess whether it expresses a pro-life or pro-choice perspective based on the author's stance on issues related to abortion or reproductive rights.
+
+
+
+Jerit, J., & Zhao, Y. (2020) - Misinformation occurs when people hold incorrect factual beliefs and do so confidently.The problem, first conceptualized by Kuklinski and colleagues in 2000, plagues political systems and is exceedingly difficult to correct. In this review, we assess the empirical literature on political misinformation in the United States and consider what scholars have learned since the publication of that early study. We conclude that research on this topic has developed unevenly. Over time, scholars have elaborated on the psychological origins of political misinformation, and this work has cumulated in a productive way. By contrast, although there is an extensive body of research on how to correct misinformation, this literature is less coherent in its recommendations. Finally, a nascent line of research asks whether people's reports of their factual beliefs are genuine or are instead a form of partisan cheerleading. Overall, scholarly research on political misinformation illustrates the many challenges inherent in representative democracy.
+
+Bibliography 
+1. Jerit, J., & Zhao, Y. (2020). Political Misinformation. Annual Review of Political Science, 23(1), 77-94. doi: 10.1146/annurev-polisci-050718-032814
+
+
+1. Following the overturning of Roe v. Wade, Justice Clarence Thomas writes that the Supreme Court should reconsider rulings that protect contraception, same-sex relationships, and same-sex marriage.
