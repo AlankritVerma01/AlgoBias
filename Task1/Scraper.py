@@ -1,9 +1,7 @@
 from requests_oauthlib import OAuth1Session
 import json
 import csv
-# In your terminal please set your environment variables by running the following lines of code.
-# export 'CONSUMER_KEY'='<your_consumer_key>'
-# export 'CONSUMER_SECRET'='<your_consumer_secret>'
+
 
 consumer_key = ""
 consumer_secret =""
@@ -11,14 +9,6 @@ access_token = ""
 access_token_secret = ""
 bearer_token = ""
 
-
-# User fields are adjustable, options include:
-# created_at, description, entities, id, location, name,
-# pinned_tweet_id, profile_image_url, protected,
-# public_metrics, url, username, verified, and withheld
-
-#Please write a piece of code to scrape and summarize the 
-# userID, userName, pinned Tweet ID, and creation date of your own account with Twitter Official API
  
 
 fields = "id,name,pinned_tweet_id,created_at"
