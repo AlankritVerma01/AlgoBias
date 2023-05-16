@@ -5,11 +5,11 @@ import csv
 # export 'CONSUMER_KEY'='<your_consumer_key>'
 # export 'CONSUMER_SECRET'='<your_consumer_secret>'
 
-consumer_key = "4tJkjceO2O3ObFafRvaiPavzW"
-consumer_secret ="7Xxp5hv40keKozVUKCKxr7d0QE5AaNWXNUyZiFZu6mGzQbGAYO"
-access_token = "1344983454304198656-iqxg2VihiFjQuV7N0k3AJlMDd3zmiS"
-access_token_secret = "iF5g1GR6PDZ9U0dhN9xWkMcB1alkd8gRtrmS53JTXxKmN"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAADMXngEAAAAAVuJ7RgU53wvZ0KQJP82ZJzLVHF0%3DPFqxgAsVOffGTQsN1xuc0Z5L30tVeUiUsC1yxFBpvlBE8wCRQy"
+consumer_key = ""
+consumer_secret =""
+access_token = ""
+access_token_secret = ""
+bearer_token = ""
 
 
 # User fields are adjustable, options include:
